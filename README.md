@@ -86,7 +86,7 @@ php spark serve
 npm run dev
 ```
 
-Aplikasi dapat diakses di `http://localhost:3479`.
+Aplikasi dapat diakses di `http://localhost:8080`.
 
 ## 👤 Akun Default (Seeded)
 
