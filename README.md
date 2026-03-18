@@ -97,8 +97,6 @@ Aplikasi dapat diakses di `http://localhost:3479`.
 
 ## 📊 Class Diagram
 
-> [!NOTE]
-> Masukkan gambar class diagram di slot ini jika sudah tersedia.
 >
 > ![Class Diagram Placeholder](https://i.imgur.com/W6ULXjh.png)
 
@@ -112,4 +110,4 @@ Aplikasi dapat diakses di `http://localhost:3479`.
 
 ---
 
-© 2026 PT. Sekawan Nickel Mining · Internal Use Only
+© 2026 PT. Sekawan Nickel Mining · Test Technical Fullstack Developer
